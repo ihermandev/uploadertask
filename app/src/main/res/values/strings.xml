@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">uploadertask</string>
+    <string name="upload_files">upload files</string>
+    <string name="import_files">import files</string>
+    <string name="limitation_info">Max files amount: 10. Max file size: 10MB</string>
+    <string name="log_server_error">Server error: </string>
+</resources>
